@@ -1,9 +1,39 @@
 # Landing Page Project
 
-## Instructions
+## Table of Contents
+- [Description](#installation)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [License](#license)
+- [Contact](#contact)
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Description
 
-To get started, open `js/app.js` and start building out the app's functionality
+This web page allows users to scroll down it by clicking on each of the sections.
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Usage
+
+To use the landing page:
+
+1. Open the page in your browser.
+2. Click on the sections that's in the navigation bar at the top of the page.
+3. Each section will be highlighted while in the viewport.
+
+## Dependencies
+
+This project uses the following dependencies:
+
+- **HTML5**: For structuring the web page.
+- **CSS3**: For styling the application.
+- **JavaScript**: For the functionality of the web page.
+
+## License
+
+This project is licensed under the Udacity License. See the `LICENSE` file for more details.
+
+## Contact
+
+For any inquiries or suggestions, feel free to contact me:
+
+- Email: jamaica.harwell91@outlook.com
+- GitHub: [Jai-design](https://github.com/Jai-design)
